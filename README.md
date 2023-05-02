@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/icon/icon.png" width="520px">
+<img src="./assets/icon/icon.png" width="250px">
 
 
 # **Color Pallate Generator App**
@@ -30,9 +30,8 @@
 
 <div align="center">
 
-<img src="./assets/Screenshot/SR.mp4" width="200px" height="200px">
+https://user-images.githubusercontent.com/113037698/235672556-8d1e3bf3-9076-402d-95d4-428b113e5c37.mp4
 
- 
 ---
 ### You can show some respect by starring 🌟 the repository!
 ---
