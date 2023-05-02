@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Screenshot/Currency Convertor Cover.jpg" width="520px">
+<img src="./assets/icon/icon.png" width="520px">
 
 
 # **Color Pallate Generator App**
